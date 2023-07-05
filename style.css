@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+    
+}
+
+#show_sketch
+{
+    float:right;
+    font-size: 20px;
+}
+
+#Sketch_to_be_drawn
+{
+color: blue;
+font-size: 25px;
+font-style:oblique;
+}
+
+#confidence
+{
+    color: blueviolet;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+#Timer
+{
+    float: right;
+    font-size: 30px;
+}
+
+#Score
+{
+    font-size: 30px;
+}
+
+#Your_sketch
+{
+    font-size: 25px;
+    color: chartreuse;
+    font-style: oblique;
+}
